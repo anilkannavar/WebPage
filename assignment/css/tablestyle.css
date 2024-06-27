@@ -1,0 +1,84 @@
+table,th,td {
+    border: 2px solid red;
+    border-collapse: collapse;
+
+}
+
+th {
+    color: azure;
+}
+
+img {
+    float: left;
+}
+
+label {
+    
+    padding: 0.5rem 0;
+    color: rgb(241, 235, 235);
+    display: block;
+}
+
+h1 {
+
+    color: azure;
+    text-decoration-line: underline;
+    text-align: center;
+    word-spacing: 0.75cm;
+
+}
+
+td {
+    color: azure;
+}
+
+body {
+    width: 100%;
+    height: 120vh;
+    margin: 0;
+    background-color: rgb(9, 9, 37);
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 120%;
+    color: azure;
+}
+
+h3 {
+
+    color: azure;
+
+}
+
+form {
+
+
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 80dvw;
+
+}
+
+fieldset {
+    width: 60%;
+    border:none ;
+    padding: 2rem 0;
+}
+ input[type="submit"]{
+    width:20% ;
+    height: 0.75cm;
+    color:black ;
+    display: block;
+   margin: 1em auto;
+    background-color: darkgray;
+    border: 2px solid red;
+    border-radius: 10px;
+    
+
+}
+.width{
+    width: 20px;
+}
